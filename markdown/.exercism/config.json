@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "filiptoskovic"
+  ],
+  "contributors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uMarkdown.pas"
+    ],
+    "test": [
+      "uMarkdownTests.pas"
+    ],
+    "example": [
+      ".meta/uMarkdownExample.pas"
+    ]
+  },
+  "blurb": "Refactor a Markdown parser."
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\sum-of-multiples\SumOfMultiples.exe" total="16" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-15" time="17:10:12">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="SumOfMultiples.exe" executed="true" result="Success" success="True" time="17:10:12" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uSumOfMultiplesTests" executed="true" result="Success" success="True" time="1.838" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TSumsOfMultipleTest" executed="True" result="Success" success="True" time="1.838" >
+                <results>
+                  <test-case name="no_multiples_within_limit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="one_factor_has_multiples_within_limit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="more_than_one_multiple_within_limit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="more_than_one_factor_with_multiples_within_limit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="each_multiple_is_only_counted_once" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="a_much_larger_limit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="three_factors" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="factors_not_relatively_prime" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="some_pairs_of_factors_relatively_prime_and_some_not" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="one_factor_is_a_multiple_of_another" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="much_larger_factors" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="all_numbers_are_multiples_of_1" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="no_factors_means_an_empty_sum" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="the_only_multiple_of_0_is_0" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="solutions_using_include_exclude_must_extend_to_cardinality_greater_than_3" executed="True" result="Success" success="True" time="1.835" asserts="0" />
+                  <test-case name="the_factor_0_does_not_affect_the_sum_of_multiples_of_other_factors" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

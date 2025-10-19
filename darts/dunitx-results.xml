@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\darts\Darts.exe" total="10" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-15" time="16:35:57">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Darts.exe" executed="true" result="Success" success="True" time="16:35:57" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uDartsTests" executed="true" result="Success" success="True" time="0.002" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="" executed="True" result="Success" success="True" time="0.002" >
+                <results>
+                  <test-case name="ADartLandsOutsideTheTarget" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsJustInTheBorderOfTheTarget" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsInTheOuterCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsRightInTheBorderBetweenOutsideAndMiddleCircles" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsInTheMiddleCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsRightInTheBorderBetweenMiddleAndInnerCircles" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartLandsInTheInnerCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartWhoseCoordinatesSumToGreaterThanOneButWhoseRadiusToOriginIsLessThanOrEqualToOneIsScoredInTheInnerCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartWhoseCoordinatesSumToGreaterThanFiveButWhoseRadiusToOriginIsLessThanOrEqualToFiveIsScoredInTheMiddleCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="ADartWhoseCoordinatesSumToGreaterThanTenButWhoseRadiusToOriginIsLessThanOrEqualTenIsScoredInTheOuterCircle" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

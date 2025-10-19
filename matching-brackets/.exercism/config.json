@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uMatchingBrackets.pas"
+    ],
+    "test": [
+      "uMatchingBracketsTests.pas"
+    ],
+    "example": [
+      ".meta/uMatchingBracketsExample.pas"
+    ]
+  },
+  "blurb": "Make sure the brackets and braces all match.",
+  "source": "Ginna Baker"
+}

@@ -1,0 +1,21 @@
+{
+  "authors": [
+    "filiptoskovic"
+  ],
+  "contributors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uMeetup.pas"
+    ],
+    "test": [
+      "uMeetupTests.pas"
+    ],
+    "example": [
+      ".meta/uMeetupExample.pas"
+    ]
+  },
+  "blurb": "Calculate the date of meetups.",
+  "source": "Jeremy Hinegardner mentioned a Boulder meetup that happens on the Wednesteenth of every month"
+}

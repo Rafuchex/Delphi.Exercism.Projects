@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\circular-buffer\CircularBuffer.exe" total="14" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-12" time="18:22:41">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="CircularBuffer.exe" executed="true" result="Success" success="True" time="18:22:41" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uCircularBufferTests" executed="true" result="Success" success="True" time="0.005" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TestCircularBuffer" executed="True" result="Success" success="True" time="0.005" >
+                <results>
+                  <test-case name="reading_empty_buffer_should_fail" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="can_read_an_item_just_written" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Write_and_read_back_multiple_items" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="each_item_may_only_be_read_once" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="items_are_read_in_the_order_they_are_written" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="full_buffer_cannot_be_written_to" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="a_read_frees_up_capacity_for_another_write" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="read_position_is_maintained_even_across_multiple_writes" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="items_cleared_out_of_buffer_cannot_be_read" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="clear_frees_up_capacity_for_another_write" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="clear_does_nothing_on_empty_buffer" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="overwrite_acts_like_write_on_non_full_buffer" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="overwrite_replaces_the_oldest_item_on_full_buffer" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="overwrite_replaces_the_oldest_item_remaining_in_buffer_following_a_read" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

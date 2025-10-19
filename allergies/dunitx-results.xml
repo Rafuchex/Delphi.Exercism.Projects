@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\allergies\Allergies.exe" total="49" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-12" time="02:41:02">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Allergies.exe" executed="true" result="Success" success="True" time="02:41:02" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uAllergiesTests" executed="true" result="Success" success="True" time="0.010" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="list when:" executed="True" result="Success" success="True" time="0.004" >
+                <results>
+                  <test-case name="NoAllergies" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="JustEggs" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="JustPeanuts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="JustStrawberries" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="EggsAndPeanuts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="MoreThanEggsButNotPeanuts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="LotsOfStuff" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Everything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="NoAllergenScoreParts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for cats allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToCats" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToCatsAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotCats" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for chocolate allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToChocolate" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToChocolateAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotChocolate" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for eggs allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToEggs" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEggsAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotEggs" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for peanuts allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToPeanuts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToPeanutsAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotPeanuts" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for pollen allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToPollen" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToPollenAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotPollen" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for shellfish allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToShellfish" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToShellfishAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotShellfish" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for strawberries allergy" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToStrawberries" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToStrawberriesAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotStrawberries" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="Fixture" name="testing for tomatoes allergy" executed="True" result="Success" success="True" time="0.002" >
+                <results>
+                  <test-case name="NotAllergicToAnything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicOnlyToTomatoes" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToTomatoesAndSomethingElse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToSomethingButNotTomatoes" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="AllergicToEverything" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>

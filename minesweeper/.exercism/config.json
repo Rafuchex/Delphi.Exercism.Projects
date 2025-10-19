@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "rpottsoh"
+  ],
+  "contributors": [
+    "kotp"
+  ],
+  "files": {
+    "solution": [
+      "uMinesweeper.pas"
+    ],
+    "test": [
+      "uMinesweeperTests.pas"
+    ],
+    "example": [
+      ".meta/uMineSweeperExample.pas"
+    ]
+  },
+  "blurb": "Add the numbers to a minesweeper board."
+}

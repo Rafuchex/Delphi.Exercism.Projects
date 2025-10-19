@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "filiptoskovic"
+  ],
+  "contributors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uTournament.pas"
+    ],
+    "test": [
+      "uTournamentTests.pas"
+    ],
+    "example": [
+      ".meta/uTournamentExample.pas"
+    ]
+  },
+  "blurb": "Tally the results of a small football competition."
+}

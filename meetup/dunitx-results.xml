@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\meetup\Meetup.exe" total="95" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-15" time="09:54:07">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Meetup.exe" executed="true" result="Success" success="True" time="09:54:07" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uMeetupTests" executed="true" result="Success" success="True" time="0.016" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TMeetupTest" executed="True" result="Success" success="True" time="0.016" >
+                <results>
+                  <test-case name="monteenth_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="monteenth_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="monteenth_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="tuesteenth_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="tuesteenth_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="tuesteenth_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="wednesteenth_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="wednesteenth_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="wednesteenth_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="thursteenth_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="thursteenth_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="thursteenth_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="friteenth_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="friteenth_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="friteenth_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="saturteenth_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="saturteenth_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="saturteenth_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="sunteenth_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="sunteenth_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="sunteenth_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Monday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Monday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Tuesday_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Tuesday_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Wednesday_of_July_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Wednesday_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Thursday_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Thursday_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Friday_of_November_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Friday_of_December_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Saturday_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Saturday_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Sunday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Sunday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Monday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Monday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Tuesday_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Tuesday_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Wednesday_of_July_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Wednesday_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Thursday_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Thursday_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Friday_of_November_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Friday_of_December_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Saturday_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Saturday_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Sunday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="second_Sunday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Monday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Monday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Tuesday_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Tuesday_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Wednesday_of_July_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Wednesday_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Thursday_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Thursday_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Friday_of_November_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Friday_of_December_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Saturday_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Saturday_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Sunday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="third_Sunday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Monday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Monday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Tuesday_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Tuesday_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Wednesday_of_July_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Wednesday_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Thursday_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Thursday_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Friday_of_November_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Friday_of_December_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Saturday_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Saturday_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Sunday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="fourth_Sunday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Monday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Monday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Tuesday_of_May_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Tuesday_of_June_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Wednesday_of_July_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Wednesday_of_August_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Thursday_of_September_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Thursday_of_October_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Friday_of_November_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Friday_of_December_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Saturday_of_January_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Saturday_of_February_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Sunday_of_March_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Sunday_of_April_2013" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Wednesday_of_February_2012" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Wednesday_of_December_2014" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="last_Sunday_of_February_2015" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="first_Friday_of_December_2012" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
