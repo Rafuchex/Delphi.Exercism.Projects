@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "rpottsoh"
+  ],
+  "contributors": [
+    "kotp"
+  ],
+  "files": {
+    "solution": [
+      "uHamming.pas"
+    ],
+    "test": [
+      "uHammingTests.pas"
+    ],
+    "example": [
+      ".meta/uHammingExample.pas"
+    ]
+  },
+  "blurb": "Calculate the Hamming distance between two DNA strands.",
+  "source": "The Calculating Point Mutations problem at Rosalind",
+  "source_url": "https://rosalind.info/problems/hamm/"
+}

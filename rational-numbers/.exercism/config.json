@@ -1,0 +1,19 @@
+{
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uRationalNumbers.pas"
+    ],
+    "test": [
+      "uRationalNumbersTests.pas"
+    ],
+    "example": [
+      ".meta/uRationalNumbersExample.pas"
+    ]
+  },
+  "blurb": "Implement rational numbers.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rational_number"
+}

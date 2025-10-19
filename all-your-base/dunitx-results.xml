@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\rafpe\Exercism\delphi\all-your-base\AllYourBase.exe" total="21" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2025-10-15" time="21:47:29">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="AllYourBase.exe" executed="true" result="Success" success="True" time="21:47:29" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uAllYourBaseTests" executed="true" result="Success" success="True" time="0.003" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TAllYourBaseTest" executed="True" result="Success" success="True" time="0.003" >
+                <results>
+                  <test-case name="single_bit_one_to_decimal" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="binary_to_single_decimal" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="single_decimal_to_binary" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="binary_to_multiple_decimal" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="decimal_to_binary" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="trinary_to_hexadecimal" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="hexadecimal_to_trinary" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="integer_15_bit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="empty_list" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="single_zero" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="multiple_zeros" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="leading_zeros" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="input_base_is_one" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="input_base_is_zero" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="input_base_is_negative" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="negative_digit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="invalid_positive_digit" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="output_base_is_one" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="output_base_is_zero" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="output_base_is_negative" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="both_bases_are_negative" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
